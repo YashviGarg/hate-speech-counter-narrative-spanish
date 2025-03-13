@@ -22,7 +22,7 @@ Each entry in the dataset consists of:
 - Counter-narratives (CN)
 - Additional metadata for contextual information
 
-The dataset is available through the [CONAN project website](https://github.com/marcoguerini/CONAN) and [Zenodo repository](https://zenodo.org/record/4268468).
+The dataset is available through the [CONAN project website](https://github.com/marcoguerini/CONAN)
 
 ### Sample Data
 Below is a sample of the dataset showing how hate speech (HS) and counter-narratives (CN) are paired:
