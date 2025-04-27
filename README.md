@@ -155,24 +155,6 @@ def generate_counter_narrative(hate_speech_text, model, tokenizer, max_length=12
 4. **Real-time Application**: Developing a system for real-time counter-narrative suggestion in online platforms
 5. **User Feedback Integration**: Incorporating user feedback to continuously improve the generated counter-narratives
 
-## Project Structure
-
-```
-├── data/
-│   ├── es_train.csv          # Main CONAN-ES dataset
-│   └── classified_sentences.csv  # Results after classification
-├── models/
-│   ├── model_V1_MT5/         # Fine-tuned mT5-base model
-│   └── model_V1_Bart/        # Fine-tuned mBART-large-50 model
-├── notebooks/
-│   └── ML_Project.py         # Main project notebook
-├── images/
-│   ├── dataset_sample.png    # Sample of the dataset
-│   └── token_distributions.png  # Token length distribution visualizations
-├── LICENSE                    # Apache 2.0 license
-└── README.md                  # Project documentation
-```
-
 ## How to Cite
 
 If you use this work in your research, please cite:
